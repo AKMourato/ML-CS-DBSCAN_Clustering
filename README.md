@@ -16,4 +16,7 @@ Based on these two parameters, points are classified as core point, border point
 - **Border point**: A point is a border point if it is reachable from a core point and there are less than minPts number of points within its surrounding area.
 - **Outlier**: A point is an outlier if it is not a core point and not reachable from any core points.
 
-In this case study it is used DBSCAN to find the group of stations which show the same weather condition.
+In this case study it is used DBSCAN to find the group of stations which show the same weather condition in Canada.
+
+![img](weatherbdscan.png)
+
