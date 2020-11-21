@@ -18,5 +18,5 @@ Based on these two parameters, points are classified as core point, border point
 
 In this case study it is used DBSCAN to find the group of stations which show the same weather condition in Canada.
 
-![img](weatherbdscan.png)
+![img](weatherdbscan.png)
 
